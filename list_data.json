@@ -4,14 +4,15 @@
 			"Area": "Capetown",
 			"Location": "Table Mountain",
 			"Fun fact": "1 of the 7 new nature wonders of the World!",
-			"Reason to visit": "Table Mountain is a flat-topped/plateau mountain and is the most iconic landmark of South Africa. For more information visit https://tablemountainnationalpark.org/"
+			"Reason to visit": "Table Mountain is a flat-topped/plateau mountain and is the most iconic landmark of South Africa. For more information visit",
+			"URL" : "https://tablemountainnationalpark.org/"
 		},
 		{
 			"Area": "Capetown",
 			"Location": "Cape Of Good Hope",
 			"Fun fact": "The Cape of Good Hope is NOT the southern tip of Africa!",
 			"Reason to visit": "One historical account says that Dias named the promontory Cape of Storms and that John II of Portugal renamed it Cape of Good Hope (because its discovery was a good omen that India could be reached by sea from Europe); other sources attribute its present name to Dias himsel - source Britannica. ",
-			"URL" : "https://capepoint.co.za/visitor-info/"
+			"Url" : "https://capepoint.co.za/visitor-info/"
 		},
 		{
 			"Area": "Gauteng",

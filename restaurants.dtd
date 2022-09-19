@@ -1,11 +1,11 @@
-<?xml version="1.0"?>
-<!DOCTYPE restaurants [
-<!ELEMENT restaurants(restaurant+)>
-<!ELEMENT restaurant(id,name,cuisine,city,open,close)>
-<!ATTLIST restaurant id CDATA #REQUIRED>
-<!ATTLIST restaurant name CDATA #REQUIRED>
-<!ATTLIST restaurant cuisine CDATA>
-<!ATTLIST restaurant city CDATA>
-<!ATTLIST restaurant open CDATA>
-<!ATTLIST restaurant close CDATA>
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE restaurants[
+<!ELEMENT restaurants (restaurant+)>
+<!ELEMENT restaurant (id,name,cuisine,city,open,close)>
+<!ELEMENT id (#PCDATA)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT cuisine (#PCDATA)>
+<!ELEMENT city (#PCDATA)>
+<!ELEMENT open (#PCDATA)>
+<!ELEMENT close (#PCDATA)>
 ]>
