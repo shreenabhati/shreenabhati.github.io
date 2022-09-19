@@ -1,3 +1,4 @@
+@charset "UTF-8";
 /*!
 * Start Bootstrap - Freelancer v7.0.4 (https://startbootstrap.com/theme/freelancer)
 * Copyright 2013-2021 Start Bootstrap
@@ -81,9 +82,8 @@ body {
   font-weight: var(--bs-body-font-weight);
   line-height: var(--bs-body-line-height);
   color: var(--bs-body-color);
-  text-align: left;
+  text-align: var(--bs-body-text-align);
   background-color: var(--bs-body-bg);
-  background-image: url('me9.png');
   -webkit-text-size-adjust: 100%;
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
