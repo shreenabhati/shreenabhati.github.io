@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE restaurants[
-<!ELEMENT restaurants (restaurant+)>
-<!ELEMENT restaurant (id,name,cuisine,city,open,close)>
+<!DOCTYPE rootTag[
+<!ELEMENT rootTag (restaurants+)>
+<!ELEMENT restaurants (id,name,cuisine,city,open,close)>
 <!ELEMENT id (#PCDATA)>
 <!ELEMENT name (#PCDATA)>
 <!ELEMENT cuisine (#PCDATA)>
